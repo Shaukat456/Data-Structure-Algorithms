@@ -16,7 +16,8 @@ int main() {
 
     //suppose that initially the address is 100 
     // after an iteration it would be incremented by 4 bytes (because int size if 4bytes)
-    // the memory address would be incremented by the 100 + 4 on every iteration  
+    // the memory address would be incremented by the 100 + 4 on every iteration 
+     
 
     for (int i = 1 ; i<=4; i++){
         cout << *pointer << endl;
