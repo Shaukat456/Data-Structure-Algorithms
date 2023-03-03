@@ -5,10 +5,8 @@ using namespace std;
 
 int divisible (int randomNumber , int n1 , int n2){
     int way1 = randomNumber / n1;
-    int way2 = randomNumber / n2 ; 
-    
+    int way2 = randomNumber / n2 ;
     int CommonWay= randomNumber / (n1* n2);
-    
     return way1 +way2 - CommonWay;
 }
 
