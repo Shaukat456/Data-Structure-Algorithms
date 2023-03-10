@@ -2,7 +2,6 @@
 #include <iostream>
 using namespace std;
 
-
 int divisible (int randomNumber , int n1 , int n2){
     int way1 = randomNumber / n1;
     int way2 = randomNumber / n2 ;
