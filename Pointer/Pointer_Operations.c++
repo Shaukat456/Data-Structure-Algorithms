@@ -3,7 +3,6 @@
 
 using namespace std;
 int main() {
-   
     int variable= 4;
     int  *pointer;        
     pointer=&variable;           // & is use to store memory address 
