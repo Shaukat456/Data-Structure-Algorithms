@@ -31,9 +31,6 @@ cout <<size << endl;   // returns the length
 
 // assuming first item of the array to be the maximum
 int max_number=hard_coded_array[0]; 
-
-
-
 // to be updated when needed
 int index;
 for (int i = 0 ; i<=sizeof(hard_coded_array)/sizeof(hard_coded_array[0]) -1  ; i++){  
