@@ -25,7 +25,6 @@ int main() {
     int Rn , Num1 , Num2 ; 
     
     cin >> Rn >> Num1 >> Num2;
-    
     cout << divisible(Rn , Num1, Num2);
     return 0;
 }
