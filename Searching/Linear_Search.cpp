@@ -42,7 +42,6 @@ for (int i = 0 ; i<=sizeof(hard_coded_array)/sizeof(hard_coded_array[0]) -1  ; i
     index=i;  // updating index value to that of the highest number;
   }
 }
-
 cout <<max_number<<endl;
 cout <<index<<endl;
 
