@@ -42,6 +42,5 @@ for (int i = 0 ; i<=sizeof(hard_coded_array)/sizeof(hard_coded_array[0]) -1  ; i
 cout <<max_number<<endl;
 cout <<index<<endl;
 
-
     return 0;
 }
